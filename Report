@@ -1,0 +1,2 @@
+Ukuran Window Ideal: Dipilih $5 \times 5$ karena memberikan hasil paling stabil dan efektif membedakan garis dari noise kecil.
+Warna yang sangat mirip putih diabaikan menggunakan ambang batas perbedaan warna (diff > 80) untuk menghindari deteksi palsu.
